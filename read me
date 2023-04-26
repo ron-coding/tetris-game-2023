@@ -1,0 +1,6 @@
+to install all requirements please type the following in cmd
+(in the folder)
+
+pip install -r requirements.txt
+
+(make sure to have latest version of pip)
